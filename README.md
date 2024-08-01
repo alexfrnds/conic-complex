@@ -4,6 +4,12 @@ This module accompanies : _INSERT REF ARXIV_
 ## Summary
 Computes the gamma-linear projected barcode of conic complex with (potentially) the use of the projected barcode template.
 
+## Installation
+Run the command :
+`pip install .`
+from now on the algorithm are accessible with the module _ccomplex_.
+See __tests/__ for further examples. 
+
 ## Requirement
 The following module is required:
 - [phat python bindings](https://github.com/xoltar/phat)
