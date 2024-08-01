@@ -1,0 +1,9 @@
+#Cache
+__pycache__
+
+#Twopac
+twopac*
+2pac
+
+#Data
+tests_display.py
