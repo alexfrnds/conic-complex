@@ -1,4 +1,4 @@
-# CComplex
+# Conic-complex
 This module accompanies : _INSERT REF ARXIV_ 
 
 ## Summary
@@ -17,7 +17,7 @@ See __tests/__ for further examples.
 The following module is required:
 - [phat python bindings](https://github.com/xoltar/phat)
 
-Bug fix : if __pybind11__ is not recognized just reinstall setuptools from pip.
+Bug fix : if __pybind11__ is not recognized just reinstall __setuptools__,__wheel__,__pybind11__ from pip.
 
 ## Requirements (examples)
 The repository contains notebooks to generate examples using the python binding of [2pac](https://gitlab.com/flenzen/2pac).
