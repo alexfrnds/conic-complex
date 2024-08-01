@@ -5,7 +5,6 @@ import ccomplex.display as dp
 # Testfile for display with "./tests/" samples
 #========================================================
 
-
 SHAPE = "circle"
 for hom_deg in [0,1]:
     path = f"tests/{SHAPE}/{SHAPE}_H{hom_deg}.scc2020"
