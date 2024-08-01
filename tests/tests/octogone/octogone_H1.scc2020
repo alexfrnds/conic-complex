@@ -1,0 +1,14 @@
+scc2020
+2
+0 4 4
+# left resolution matrix
+# right resolution matrix
+1.41421 -2 ; 3 2
+1.41421 -3 ; 2 1
+1.84776 -4 ; 1 0
+1.84776 -5 ; 0
+# Row grades for right matrix
+1.84776 -5
+1.41421 -4
+1.41421 -3
+0.765367 -2
