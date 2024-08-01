@@ -6,7 +6,9 @@ Computes the gamma-linear projected barcode of conic complex with (potentially) 
 
 ## Installation
 Run the command :
+
 `pip install .`
+
 from now on the algorithm are accessible with the module _ccomplex_.
 See __tests/__ for further examples. 
 
