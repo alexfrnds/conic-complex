@@ -1,5 +1,5 @@
 # Conic-complex
-This module accompanies : _INSERT REF ARXIV_ 
+This module accompanies the following article : https://arxiv.org/abs/2408.01065
 
 ## Summary
 Computes the gamma-linear projected barcode of conic complex with (potentially) the use of the projected barcode template.
